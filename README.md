@@ -29,8 +29,6 @@ milliseconds of CPU time for better deliverability of important mail.
 | `X-Postage-Hash`   | Hash algorithm, e.g. `sha256`.            |
 | `X-Postage-Proof`  | Token whose hash starts with **N** zeros. |
 
-*Full algorithm and security notes live in [`spec.md`](spec.md).*
-
 ---
 
 ## Roadmap
